@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 import sqlite3
 import os
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "847174695:AAHSzLspIzmoNSylSExvBsJvE1PDQcEs8ws"
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
